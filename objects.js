@@ -1,3 +1,2 @@
-var playlist = {
-
+var playlist = {"Kodaline":"Follow your Fire"
 };
